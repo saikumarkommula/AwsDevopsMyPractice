@@ -1,0 +1,182 @@
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ pwd
+/c/Users/Saikumar
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ cd /c/devops/daws78s/
+bash: cd: /c/devops/daws78s/: No such file or directory
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ mkdir devops
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ t
+bash: t: command not found
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ pwd
+/c/Users/Saikumar
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ touch sample
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ ls -l
+total 10150
+drwxr-xr-x 1 Saikumar 197121       0 Feb 29 08:44 '3D Objects'/
+drwxr-xr-x 1 Saikumar 197121       0 Nov 19  2022  AppData/
+drwxr-xr-x 1 Saikumar 197121       0 Mar 12 18:10  Contacts/
+drwxr-xr-x 1 Saikumar 197121       0 Feb 12 08:42  DeceyBoyCharlee/
+drwxr-xr-x 1 Saikumar 197121       0 Apr 11 20:38  Desktop/
+drwxr-xr-x 1 Saikumar 197121       0 Apr  9 23:38  Documents/
+drwxr-xr-x 1 Saikumar 197121       0 Apr 11 19:46  Downloads/
+-rw-r--r-- 1 Saikumar 197121  990538 Mar  9 13:57  EAadhaar.pdf
+drwxr-xr-x 1 Saikumar 197121       0 Feb 15 10:11  Favorites/
+-rw-r--r-- 1 Saikumar 197121       0 Apr 11 17:39  I
+drwxr-xr-x 1 Saikumar 197121       0 Apr 11 21:49  IntelGraphicsProfiles/
+drwxr-xr-x 1 Saikumar 197121       0 Apr  8 10:04  LINUX_COMMANDS/
+drwxr-xr-x 1 Saikumar 197121       0 Feb  1 11:56  Music/
+-rw-r--r-- 1 Saikumar 197121 4718592 Apr 11 20:45  NTUSER.DAT
+-rw-r--r-- 1 Saikumar 197121   65536 Nov 19  2022  NTUSER.DAT{471307a2-62a0-11ed-a326-30e37a9c234e}.TM.blf
+-rw-r--r-- 1 Saikumar 197121  524288 Nov 19  2022  NTUSER.DAT{471307a2-62a0-11ed-a326-30e37a9c234e}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 Saikumar 197121  524288 Nov 19  2022  NTUSER.DAT{471307a2-62a0-11ed-a326-30e37a9c234e}.TMContainer00000000000000000002.regtrans-ms
+drwxr-xr-x 1 Saikumar 197121       0 Mar 19 15:47  Pictures/
+-rw-r--r-- 1 Saikumar 197121  135037 Mar  5 23:47  SaiKumarKommula.BTech.pdf
+drwxr-xr-x 1 Saikumar 197121       0 Apr  1 16:32  Searches/
+-rw-r--r-- 1 Saikumar 197121  539194 Mar  5 17:02  Studycertificates.pdf
+drwxr-xr-x 1 Saikumar 197121       0 Feb  1 17:43  Tracing/
+drwxr-xr-x 1 Saikumar 197121       0 Feb  1 20:06  Videos/
+drwxr-xr-x 1 Saikumar 197121       0 Feb  7 17:17  charleeWeb/
+drwxr-xr-x 1 Saikumar 197121       0 Apr 11 22:15  devops/
+drwxr-xr-x 1 Saikumar 197121       0 Apr 11 19:14  devopsaws/
+drwxr-xr-x 1 Saikumar 197121       0 Apr 11 19:35  devopseng/
+-rw-r--r-- 1 Saikumar 197121  250760 Mar  6 11:33  done.pdf
+drwxr-xr-x 1 Saikumar 197121       0 Feb  1 12:50  eclipse-workspace/
+-rw-r--r-- 1 Saikumar 197121 1241088 Nov 19  2022  ntuser.dat.LOG1
+-rw-r--r-- 1 Saikumar 197121 1208320 Nov 19  2022  ntuser.dat.LOG2
+-rw-r--r-- 1 Saikumar 197121      20 Feb  1 11:57  ntuser.ini
+-rw-r--r-- 1 Saikumar 197121   49975 Mar  6 11:31  payment.pdf
+-rw-r--r-- 1 Saikumar 197121      18 Apr 11 22:16  sample
+-rw-r--r-- 1 Saikumar 197121       0 Apr 11 19:17  sampleclear
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ pwd
+/c/Users/Saikumar
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ cd /c/devops/daws78s/
+bash: cd: /c/devops/daws78s/: No such file or directory
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ cd /c/devops/daws78s
+bash: cd: /c/devops/daws78s: No such file or directory
+
+Saikumar@DESKTOP-HMEV31G MINGW64 ~
+$ cd /c/devops/daws
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ls -l
+total 16
+-rw-r--r-- 1 Saikumar 197121 3389 Apr 11 20:15 daws
+-rw-r--r-- 1 Saikumar 197121  750 Apr 11 20:15 daws.pub
+-rw-r--r-- 1 Saikumar 197121 3389 Apr 11 16:44 daws78s
+-rw-r--r-- 1 Saikumar 197121  750 Apr 11 16:44 daws78s.pub
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ rm daws78s.pem daws78s.pub
+rm: cannot remove 'daws78s.pem': No such file or directory
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ssh-keygen -t rsa -b 4096 -f daws78s
+Generating public/private rsa key pair.
+daws78s already exists.
+Overwrite (y/n)?
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ^C
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ssh-keygen -t rsa -b 4096 -f daws78s
+Generating public/private rsa key pair.
+daws78s already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in daws78s
+Your public key has been saved in daws78s.pub
+The key fingerprint is:
+SHA256:wTdyeFUphoTV4OXtdmCFursIffkoevQBCaSRxF3EfyQ Saikumar@DESKTOP-HMEV31G
+The key's randomart image is:
++---[RSA 4096]----+
+|     oo+.B*+o..o.|
+|      o++oo+E.+. |
+|      . =.*+.=+  |
+|         *o.oo.. |
+|        S  . oo .|
+|         .. oo . |
+|        ....oo   |
+|         .oooo   |
+|        .o..o..  |
++----[SHA256]-----+
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ls
+daws  daws.pub  daws78s  daws78s.pub
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ cat daws78s.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDAVARxGsKiJ3bHswCZGoWmTgKxkHIIuRPEYFwvZ+2rDlYlqtO8uwJOnTQ8iaTu5vuyqtkckgrh0ekkdSZDdLq4zD7QaIAWGPwRrAo6vO8WV20ezuVBnHNT/+BsmN7MdiJaTnTSFLHOkWghDo33UUg3NVaB7YHSLmY+z2kVMzh4BkHOO5sZqPO35WoSRumnMHEcnRHYRIEGfLqhq6zXn+DJynLCZkeeHEPd6wnJ0v4RmfmNK7V9jv+QaiYoMGhJvtutGeNbzA+aaLoRPvZb9kf1eYsizOOeEvkh323/kmEHf2xsYo+4ui3fnRkOMmgF0aLbZpCDeaO8GGh4dHfAasMLtYxNmZKUfmL4JpGa4GP3LWJ4ETrSCBpf6rPQHzehmq7EYIE70EB1t5nerYbtjJWbix87Es7HLQ0oG9LIDO4aGfjEusutSliaRjqB3tSPyqSPb90sKnSILm1fWgbNbdpG396pUtJbInxrXgOt6gu1rlsA5ipiQhTj5t7PXUm5rUBOZin2avAL2y4PiMyrlpKdDCIYOpsQN8esIrHcBk+7XCtT778tSI9ivi8K8n5Zf7xrFCGaMe4a85rjzdSpNvXqstJ8eSSn1P0gCzh1stguXwfF+gH4qPXj9Pg+YakKwCtgZWgTzoOGwiTduIAls3F2oPapZ2N/FAjJz2tmAI8Imw== Saikumar@DESKTOP-HMEV31G
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ^C
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ssh -i daws ec2-user@54.147.177.229
+The authenticity of host '54.147.177.229 (54.147.177.229)' can't be established.
+ED25519 key fingerprint is SHA256:jNtX4NLv5xKX624PeMPWIlpBGjxK+7dAWFQB1ooXJQI.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+Host key verification failed.
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ssh -i daws ec2-user@54.147.177.229
+The authenticity of host '54.147.177.229 (54.147.177.229)' can't be established.
+ED25519 key fingerprint is SHA256:jNtX4NLv5xKX624PeMPWIlpBGjxK+7dAWFQB1ooXJQI.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '54.147.177.229' (ED25519) to the list of known hosts.
+ec2-user@54.147.177.229: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ssh -i daws ec2-user@54.147.177.229
+ec2-user@54.147.177.229: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+
+Saikumar@DESKTOP-HMEV31G MINGW64 /c/devops/daws
+$ ssh -i daws78s ec2-user@54.147.177.229
+   ,     #_
+   ~\_  ####_        Amazon Linux 2
+  ~~  \_#####\
+  ~~     \###|       AL2 End of Life is 2025-06-30.
+  ~~       \#/ ___
+   ~~       V~' '->
+    ~~~         /    A newer version of Amazon Linux is available!
+      ~~._.   _/
+         _/ _/       Amazon Linux 2023, GA and supported until 2028-03-15.
+       _/m/'           https://aws.amazon.com/linux/amazon-linux-2023/
+
+[ec2-user@ip-172-31-16-16 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-16-16 ~]$ cd/
+-bash: cd/: No such file or directory
+[ec2-user@ip-172-31-16-16 ~]$ cd
+[ec2-user@ip-172-31-16-16 ~]$ cd/etc/
+-bash: cd/etc/: No such file or directory
+[ec2-user@ip-172-31-16-16 ~]$ mkdir devops
+[ec2-user@ip-172-31-16-16 ~]$ touch sample
+[ec2-user@ip-172-31-16-16 ~]$ cat>>sample
+Hello ia m learning aws devops
+[ec2-user@ip-172-31-16-16 ~]$ ls -l
+total 4
+drwxrwxr-x 2 ec2-user ec2-user  6 Apr 11 17:03 devops
+-rw-rw-r-- 1 ec2-user ec2-user 31 Apr 11 17:03 sample
+[ec2-user@ip-172-31-16-16 ~]$
